@@ -1,4 +1,4 @@
-# Privacy Policy for EasyQuoteXAu Interior
+# Privacy Policy for PaintQuoteX Interior
 
 **Effective Date:** 2026-01-01
 
