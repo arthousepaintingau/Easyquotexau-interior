@@ -1,18 +1,18 @@
-# Terms of Use for EasyQuoteXAu Interior
+# Terms of Use for PaintQuoteX Interior
 
 **Effective Date:** 2026-01-01
 
-Welcome to EasyQuoteXAu Interior. By downloading or using the app, you agree to these Terms of Use.
+Welcome to PaintQuoteX Interior. By downloading or using the app, you agree to these Terms of Use.
 
 ## Use of the App
 
-EasyQuoteXAu Interior is provided to help users estimate and prepare interior painting costs.
+PaintQuoteX Interior is provided to help users estimate and prepare interior painting costs.
 
 You agree not to misuse the app, attempt to access or modify its underlying systems, or attempt to extract or reverse engineer its source code.
 
 ## Subscriptions and Payments
 
-EasyQuoteXAu Interior offers auto-renewable subscriptions through Apple’s App Store, including EasyQuote Pro monthly and annual plans.
+PaintQuoteX Interior offers auto-renewable subscriptions through Apple’s App Store, including PaintQuoteX Pro monthly and annual plans.
 
 Payment is charged to your Apple ID account when you confirm your purchase. Your subscription automatically renews unless canceled at least 24 hours before the end of the current subscription period.
 
